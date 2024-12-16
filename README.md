@@ -1,16 +1,7 @@
-# pr_8
+### Программирование корпоративных систем
+## Хмырин Алексей Андреевич
+## ЭФБО-02-22
+# Практическая работа #8
+![image](https://github.com/user-attachments/assets/81403af7-17f7-4c2b-a7b9-aa6d2b2bf050)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/de196452-5a9d-4a15-bdfc-dbbe33c210a2)
